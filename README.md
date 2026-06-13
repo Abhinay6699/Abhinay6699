@@ -1,4 +1,3 @@
----
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:1E293B,100:0EA5E9&text=Abhinay%20Sucharith&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20Software%20Developer&descAlignY=60" />
@@ -31,71 +30,71 @@
 
 I'm an AI and Machine Learning undergraduate who builds intelligent systems from first principles.
 
-My philosophy: understand the internals, then build on top of them. This led me to create **EMERALD** — a GPT-style transformer language model built entirely from scratch in PyTorch, including tokenization, attention mechanisms, training pipelines, and deployment infrastructure.
+My philosophy: understand the internals, then build on top of them. This led me to create EMERALD — a GPT-style transformer language model built entirely from scratch in PyTorch, including tokenization, attention mechanisms, training pipelines, and deployment infrastructure.
 
 I'm interested in the intersection of LLMs, agent systems, NLP, and production AI deployment.
 
-**Open to:** Full-time AI/ML engineering roles · LLM applications · AI agent systems · NLP engineering · September 2026
+Open to: Full-time AI/ML engineering roles · LLM applications · AI agent systems · NLP engineering · September 2026
 
 ---
 
 ## Featured Projects
 
 ### EMERALD — GPT-Style Language Model
-> ~10M parameter transformer built from scratch. Custom BPE tokenizer. Wikipedia training pipeline. Flask API. Dockerized.
+~10M parameter transformer built from scratch. Custom BPE tokenizer. Wikipedia training pipeline. Flask API. Dockerized.
 
-**Stack:** PyTorch · Python · Flask · Docker  
-**Repo:** [github.com/Abhinay6699/Emerald](https://github.com/Abhinay6699/Emerald)
+Stack: PyTorch · Python · Flask · Docker
+Repo: https://github.com/Abhinay6699/Emerald
 
 ---
 
 ### TruthLens — Fake News Detection System
-> Production NLP pipeline. Logistic Regression + Gradient Boosting + BiLSTM. TF-IDF (50k features). Flask REST API + dark-themed web UI. Deployed on Render.
+Production NLP pipeline. Logistic Regression + Gradient Boosting + BiLSTM. TF-IDF (50k features). Flask REST API + dark-themed web UI. Deployed on Render.
 
-**Stack:** TensorFlow · NLTK · SpaCy · Flask · Docker  
-**Repo:** [github.com/Abhinay6699/Fakenews-Detection-using-AI](https://github.com/Abhinay6699/Fakenews-Detection-using-AI)
+Stack: TensorFlow · NLTK · SpaCy · Flask · Docker
+Repo: https://github.com/Abhinay6699/Fakenews-Detection-using-AI
 
 ---
 
 ### Binance Futures Trading Bot
-> CLI tool for placing LIMIT and MARKET orders on Binance Testnet. Typer CLI, HMAC-SHA256 auth, structured logging, modular architecture.
+CLI tool for placing LIMIT and MARKET orders on Binance Testnet. Typer CLI, HMAC-SHA256 auth, structured logging, modular architecture.
 
-**Stack:** Python · Typer · Binance REST API  
-**Repo:** [github.com/Abhinay6699/trading_bot](https://github.com/Abhinay6699/trading_bot)
+Stack: Python · Typer · Binance REST API
+Repo: https://github.com/Abhinay6699/trading_bot
 
 ---
 
 ### ArvyaX — Emotional Intelligence ML Pipeline
-> Predicts emotional state + intensity from journal text + metadata. XGBoost, TF-IDF, ablation study (ΔF1=-0.0007 text vs text+metadata), uncertainty estimation, edge deployment plan.
+Predicts emotional state + intensity from journal text + metadata. XGBoost, TF-IDF, ablation study (ΔF1=-0.0007 text vs text+metadata), uncertainty estimation, edge deployment plan.
 
-**Stack:** XGBoost · scikit-learn · pandas · Python  
-**Repo:** [github.com/Abhinay6699/Arvyax_assignment](https://github.com/Abhinay6699/Arvyax_assignment)
+Stack: XGBoost · scikit-learn · pandas · Python
+Repo: https://github.com/Abhinay6699/Arvyax_assignment
 
 ---
 
 ### 3-Agent Job Intelligence Automation
-> Scraper + resume optimizer + delivery agent. Runs at ₹0/month. n8n + Groq (llama-3.3-70b) + GitHub Actions + Gmail SMTP/IMAP.
+Scraper + resume optimizer + delivery agent. Runs at ₹0/month. n8n + Groq (llama-3.3-70b) + GitHub Actions + Gmail SMTP/IMAP.
 
-**Stack:** n8n · Groq · GitHub Actions · Gmail API  
-*(Private workflow — available on request)*
+Stack: n8n · Groq · GitHub Actions · Gmail API
+(Private workflow — available on request)
 
 ---
 
 ## Tech Stack
 
-**Languages**
+Languages:
 ![Python](https://skillicons.dev/icons?i=python,java,javascript,dart,html,css)
 
-**AI / ML**
+AI / ML:
 ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
 
-**Backend & APIs**
+Backend and APIs:
 ![Backend](https://skillicons.dev/icons?i=flask,fastapi)
 
-**Frontend**
+Frontend:
 ![Frontend](https://skillicons.dev/icons?i=flutter,html,css,javascript)
 
-**Tools**
+Tools:
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
@@ -108,7 +107,7 @@ I'm interested in the intersection of LLMs, agent systems, NLP, and production A
 | Natural Language Processing | Advanced | Text preprocessing, classification, feature engineering |
 | Deep Learning | Advanced | PyTorch, TensorFlow, model architecture design |
 | Machine Learning | Advanced | Training, evaluation, optimization, deployment |
-| AI Agents & Automation | Intermediate-Advanced | n8n, Groq, multi-agent orchestration |
+| AI Agents and Automation | Intermediate-Advanced | n8n, Groq, multi-agent orchestration |
 | API Development | Advanced | Flask, FastAPI |
 | Mobile AI | Intermediate | Flutter + FastAPI + ML inference |
 
@@ -119,7 +118,7 @@ I'm interested in the intersection of LLMs, agent systems, NLP, and production A
 | Certification | Provider | Level |
 |---|---|---|
 | Large Language Models | NPTEL | Elite |
-| HTML & CSS | Udemy | Completion |
+| HTML and CSS | Udemy | Completion |
 | SQL | SoloLearn | Completion |
 
 ---
@@ -167,4 +166,3 @@ currently:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1220,50:1E293B,100:0EA5E9" />
 </p>
----
